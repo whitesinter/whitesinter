@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @whitesinter
+- 👀 I’m interested in hacktoberfest event
+- 🌱 I’m currently learning computer system architecture
+- 💞️ I’m looking to collaborate on hacktoberfest events
